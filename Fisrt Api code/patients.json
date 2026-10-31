@@ -1,0 +1,42 @@
+[
+  {
+    "id": "P001",
+    "name": "Alex Morgan",
+    "age": 34,
+    "gender": "Female",
+    "city": "Austin",
+    "condition": "Seasonal allergies"
+  },
+  {
+    "id": "P002",
+    "name": "Jordan Lee",
+    "age": 52,
+    "gender": "Male",
+    "city": "Denver",
+    "condition": "Hypertension"
+  },
+  {
+    "id": "P003",
+    "name": "Taylor Patel",
+    "age": 27,
+    "gender": "Female",
+    "city": "Seattle",
+    "condition": "Migraine"
+  },
+  {
+    "id": "P004",
+    "name": "Casey Rivera",
+    "age": 41,
+    "gender": "Male",
+    "city": "Portland",
+    "condition": "Asthma"
+  },
+  {
+    "id": "P005",
+    "name": "Riley Chen",
+    "age": 63,
+    "gender": "Female",
+    "city": "Phoenix",
+    "condition": "Type 2 diabetes"
+  }
+]
