@@ -3,50 +3,72 @@
     "id": "P001",
     "name": "Alex Morgan",
     "age": 34,
-    "height": 168,
-    "bmi": 22.5,
+    "height": 168.0,
+    "weight": 63.5,
     "gender": "Female",
     "city": "Austin",
-    "condition": "Seasonal allergies"
+    "condition": [
+      "Seasonal allergies"
+    ]
   },
   {
     "id": "P002",
-    "name": "Jordan Lee",
+    "name": "JordCan Lee",
     "age": 52,
-    "height": 180,
-    "bmi": 27.1,
+    "height": 180.0,
+    "weight": 87.8,
     "gender": "Male",
     "city": "Denver",
-    "condition": "Hypertension"
+    "condition": [
+      "Hypertension"
+    ]
   },
   {
     "id": "P003",
     "name": "Taylor Patel",
     "age": 27,
-    "height": 165,
-    "bmi": 20.8,
+    "height": 165.0,
+    "weight": 56.63,
     "gender": "Female",
     "city": "Seattle",
-    "condition": "Migraine"
+    "condition": [
+      "Migraine"
+    ]
   },
   {
     "id": "P004",
     "name": "Casey Rivera",
     "age": 41,
-    "height": 175,
-    "bmi": 24.3,
+    "height": 175.0,
+    "weight": 74.42,
     "gender": "Male",
     "city": "Portland",
-    "condition": "Asthma"
+    "condition": [
+      "Asthma"
+    ]
   },
   {
     "id": "P005",
     "name": "Riley Chen",
     "age": 63,
-    "height": 162,
-    "bmi": 29.4,
+    "height": 162.0,
+    "weight": 77.16,
     "gender": "Female",
     "city": "Phoenix",
-    "condition": "Type 2 diabetes"
+    "condition": [
+      "Type 2 diabetes"
+    ]
+  },
+  {
+    "id": "P006",
+    "name": "Aayush",
+    "age": 19,
+    "height": 161.0,
+    "weight": 50.0,
+    "gender": "Male",
+    "city": "Mumbai",
+    "condition": [
+      "extremely perfect"
+    ]
   }
 ]
